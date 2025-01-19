@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I’m Vittorio Centore! 👋
 
-<!--
-**vittorio-centore/vittorio-centore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I’m a freshman studying Computer Science with a passion for coding that began back in 6th grade during a six-month HTML course. Since then, I’ve continued developing my skills by taking advanced coding courses at my local community college and working on hands-on projects. Currently, I’m a developer at **MRover**, where I focus on building an intuitive GUI for our robot operators in preparation for upcoming competitions.
 
-Here are some ideas to get you started:
+Beyond tech, I enjoy **soccer**, going to the **gym**, and occasionally **snowboarding**. My career goal is to pursue **tech consulting** while continuing to grow as a Full-Stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+**Programming Languages:**  
+- Python, C++, HTML/CSS, JavaScript  
+
+**Technologies:**  
+- Vue.js, Node.js, TensorFlow  
+
+---
+
+### 🌟 Featured Project
+**[Stock Market Predictor](https://github.com/vittorio-centore/stock-prob)**  
+- **Overview**: A time-series stock market predictor using LSTM (Long Short-Term Memory) neural networks. The app fetches real-time stock data from the **Alpha Vantage API**, preprocesses it, trains an LSTM model to predict future prices, and visualizes predictions using **Matplotlib**.  
+- **Key Features**:
+  - Automatically fetches daily stock data and preprocesses it for machine learning.
+  - Utilizes **TensorFlow** to build and train LSTM models.
+  - Generates future forecasts and visualizes predictions versus actual stock prices.
+- **Technologies Used**: Python, TensorFlow, Pandas, Matplotlib, scikit-learn, Alpha Vantage API.  
+
+---
+
+### 🎯 Current Focus
+- Building a **wardrobe organizer website** to expand my Full-Stack skills.
+- Deepening my knowledge in **backend development** and **system design**.
+- Exploring opportunities in **tech consulting** while solving meaningful problems.
+
+---
+
+### 🌐 Connect with Me
+- **LinkedIn**: [Vittorio Centore](https://www.linkedin.com/in/vittoriocentore/)  
+
+Feel free to check out my projects and connect—I’m always open to learning and collaborating! 😊
