@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I’m a freshman studying Computer Science with a passion for coding that began back in 6th grade during a six-month HTML course. Since then, I’ve continued developing my skills by taking advanced coding courses at my local community college and working on hands-on projects. Currently, I’m a developer at **MRover**, where I focus on building an intuitive GUI for our robot operators in preparation for upcoming competitions.
 
-Beyond tech, I enjoy **soccer**, going to the **gym**, and occasionally **snowboarding**. My career goal is to pursue **tech consulting** while continuing to grow as a Full-Stack developer.
+Beyond tech, I enjoy **soccer**, going to the **gym**, and occasionally **snowboarding**. My career goal is to pursue **Software Engineering** while continuing to grow as a Full-Stack developer.
 
 ---
 
